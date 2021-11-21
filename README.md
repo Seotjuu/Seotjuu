@@ -11,7 +11,7 @@
 >과제
 >> [HomePage](https://github.com/tjrenffl8/Seotjuu.github.io.git)
 >>
->><a href="Seotjuu.github.io">link</a> <= 홈페이지
+>><a href="https://seotjuu.github.io/">link</a> <= 홈페이지
 
 </div>
 <div class="pull-right" align="center">
