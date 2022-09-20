@@ -9,7 +9,7 @@
 >> [CodeUp](https://github.com/tjrenffl8/CodeUp.git)
 >> 
 >포트폴리오
->> [HomePage](https://github.com/tjrenffl8/Blog.git)
+>> [HomePage](https://github.com/seotjuu/Blog.git)
 >>
 >><a href="https://seotjuu.github.io/Blog/">link</a> <= 홈페이지
 
