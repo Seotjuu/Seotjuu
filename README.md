@@ -8,10 +8,10 @@
 >문제 풀이
 >> [CodeUp](https://github.com/tjrenffl8/CodeUp.git)
 >> 
->과제
->> [HomePage](https://github.com/tjrenffl8/Seotjuu.github.io.git)
+>포트폴리오
+>> [HomePage](https://github.com/tjrenffl8/Blog.git)
 >>
->><a href="https://seotjuu.github.io/">link</a> <= 홈페이지
+>><a href="https://seotjuu.github.io/Blog/">link</a> <= 홈페이지
 
 </div>
 <div class="pull-right" align="center">
