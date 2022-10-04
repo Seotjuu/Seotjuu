@@ -12,6 +12,8 @@
 >> [HomePage](https://github.com/seotjuu/Blog.git)
 >>
 >><a href="https://seotjuu.github.io/Blog/">link</a> <= 홈페이지
+>>
+>><a>tjrenffl8@naver.com</a> <= email
 
 </div>
 <div class="pull-right" align="center">
