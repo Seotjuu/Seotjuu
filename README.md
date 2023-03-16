@@ -5,10 +5,6 @@
                       
 ### 이석주 2004.09.17
 
-                      
->>
->><a>tjrenffl8@naver.com</a> <= email
-
 </div>
 <div class="pull-right" align="center">
 
