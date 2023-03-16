@@ -5,13 +5,7 @@
                       
 ### 이석주 2004.09.17
 
->문제 풀이
->> [CodeUp](https://github.com/tjrenffl8/CodeUp.git)
->> 
->포트폴리오
->> [HomePage](https://github.com/seotjuu/Blog.git)
->>
->><a href="https://seotjuu.github.io/Blog/">link</a> <= 홈페이지
+                      
 >>
 >><a>tjrenffl8@naver.com</a> <= email
 
