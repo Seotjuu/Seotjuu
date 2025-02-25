@@ -3,8 +3,40 @@
 <div class="text-justify>
 <div class="pull-left">
                       
-### 이석주 2004.09.17
+### 👨‍💻 이석주 2004.09.17
 
+---
+
+### 🌟 소개
+- 🏢 Moasoft Cop.
+- 💻 Frontend Developer
+- 📧 sjlee@moasoftware.co.kr
+- 📞 010-4740-7945
+- 🕴 산업기능요원 현역 ( 25.02. ~ 27.12. )
+  
+---
+
+### 📚 학력
+- 한국폴리텍대학 성남캠퍼스 임베디드소프트웨어학과 23.03. ~ 25.02. 🎓
+- 한국공학대학교 컴퓨터전자공학과 25.03 ~ 27.02. 🎓
+
+---
+
+### 🛠️ 기술
+![React] ![Next.js] ![NextAuth] ![Python] ![Django]
+- **정보처리기능사**
+- **정보처리산업기사**
+- **컴퓨터활용능력 2급**
+- **일학습병행 SW개발_L3**
+- **GTQ2급**
+
+---
+
+### 💼 경력
+- **Soynet Co.** ( 22.03 ~ 22.12 )
+- **Moasoft Co.** ( 23.02 ~ ing )
+
+--- 
 </div>
 <div class="pull-right" align="center">
 
@@ -17,5 +49,9 @@
 </div>
 </div>
 
-
+[React]: https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat
+[Next.js]: https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat
+[NextAuth]: https://img.shields.io/badge/NextAuth-000000?style=flat&logo=nextdotjs&logoColor=white
+[Python]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54
+[Django]: https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white	
 
