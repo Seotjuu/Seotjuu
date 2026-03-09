@@ -22,7 +22,7 @@
 ---
 
 ### 🛠️ 기술
-![React] ![Next.js] ![NextAuth] ![Python]
+![React] ![Next.js] ![NextAuth] ![Python] ![Arduino]
 - **정보처리산업기사**
 - **컴퓨터활용능력 2급**
 - **GTQ2급**
@@ -51,4 +51,4 @@
 [NextAuth]: https://img.shields.io/badge/NextAuth-000000?style=flat&logo=nextdotjs&logoColor=white
 [Python]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54
 [Django]: https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white	
-
+[Arduino]: https://img.shields.io/badge/Arduino-%2300878F?logo=arduino
